@@ -23,7 +23,7 @@
 	}
 
 	body {
-		line-height: 1;
+		line-height: 2;
 	}
 
 	ol, ul {
@@ -1603,15 +1603,15 @@
 
 	body, input, select, textarea {
 		font-family: "Raleway", Arial, Helvetica, sans-serif;
-		font-size: 13pt;
-		font-weight: 400;
+		font-size: 15pt;
+		font-weight: 500;
 		line-height: 2em;
 	}
 
 		@media screen and (max-width: 1680px) {
 
 			body, input, select, textarea {
-				font-size: 11pt;
+				font-size: 15pt;
 			}
 
 		}
