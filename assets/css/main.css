@@ -1649,8 +1649,8 @@
 		}
 
 	a {
-		text-decoration: underline;
-		color: #f32853;
+		text-decoration: none;
+		color: #0080ff;
 	}
 
 		a:hover {
